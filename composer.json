@@ -1,0 +1,12 @@
+{
+    "name": "cw/mimi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tibaredha",
+            "email": "tibaredha@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
