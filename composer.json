@@ -8,5 +8,13 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    
+	"autoload": {
+        "psr-4": { 
+		"app\\":"app" 
+		}
+    },
+	"require": {
+        "michelf/php-markdown": "^1.9"
+    }
 }
